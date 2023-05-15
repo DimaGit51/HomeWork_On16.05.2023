@@ -14,11 +14,11 @@ namespace Program
 {
     public class ArNode
     {
-        private double info; 
-        private char pr; 
-        private ArNode left; 
-        private ArNode right; 
-                            
+        private double info;
+        private char pr;
+        private ArNode left;
+        private ArNode right;
+
         public double Info
         {
             get { return info; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023.csproj": {}
+    "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023.csproj": {}
   },
   "projects": {
-    "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023.csproj": {
+    "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023.csproj",
-        "projectName": "HomeWork_On15.05.2023",
-        "projectPath": "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023.csproj",
+        "projectUniqueName": "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023.csproj",
+        "projectName": "HomeWork_On16.05.2023",
+        "projectPath": "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023.csproj",
         "packagesPath": "C:\\Users\\didvo\\.nuget\\packages\\",
-        "outputPath": "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On15.05.2023\\HomeWork_On15.05.2023\\obj\\",
+        "outputPath": "C:\\ДВОРЯНЧИКОВ ДМИТРИЙ\\Microsoft Visual Studio\\HomeWork_On16.05.2023\\HomeWork_On16.05.2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\didvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
